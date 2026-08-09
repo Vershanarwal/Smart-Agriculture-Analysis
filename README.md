@@ -53,7 +53,11 @@ The Power BI dashboard provides an interactive view of agricultural data through
 
 Add your dashboard screenshot here:
 
-![Smart Agriculture Dashboard](images/Dashboard.png)
+![SMART-AGRICULTURE-ANALYSIS](Images/dashboard.png)
+
+### Insights Dashboard
+
+![SMART-AGRICULTURE-ANALYSIS](Images/insights.png)
 
 ---
 
